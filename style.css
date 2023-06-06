@@ -47,3 +47,5 @@ body {
   */
   border-image: var(--nightsky) 100;
 }
+
+h1 { font-size: 100px; }
